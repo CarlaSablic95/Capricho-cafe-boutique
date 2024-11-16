@@ -30,7 +30,7 @@ h2 {
     font-size: calc(1.7rem + 0.9vw);
 }
 
-h4, p, small {
+nav, h4, p, small {
     font-family: var(--paragraphs);
 }
 
@@ -40,6 +40,13 @@ h4, p, small {
 
 .light-pink {
     color: #f7b9c3;
+}
+
+/* SECCIÓN HEADER */
+
+header {
+    background-image: url('../img/bg-img.png');
+    background-repeat: no-repeat;
 }
 
 /* SECCIÓN SERVICIOS */
